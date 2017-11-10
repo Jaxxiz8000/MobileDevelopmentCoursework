@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Journey_makes_memories</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="holiday_name">The day we went to rome!</string>
+    <string name="rome_notes">Insert random holiday information here</string>
+    <string name="start_text">Start Date:</string>
+    <string name="end_text">End Date:</string>
+    <string name="start_date">17/06/2017</string>
+    <string name="end_date">30/06/2017</string>
+</resources>
